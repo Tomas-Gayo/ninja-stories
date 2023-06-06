@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1d74db2101f5b44496e5d950d3ba9f1, type: 3}
+  m_Name: EnemyQuest
+  m_EditorClassIdentifier: 
+  title: Kill 5 Samurais
+  description: 
+  id: 3
+  state: 1
+  questConfig: {fileID: 11400000, guid: 854032b5113443942852c8595c81e90a, type: 2}
+  enemyToKill: {fileID: 11400000, guid: d356210b9fd39884481a2e481a5827bf, type: 2}
+  amountToCollect: 2
+  baseQuestChannel: {fileID: 11400000, guid: 831231a6c4313954aa1d5b92e403844f, type: 2}
+  enemyKilledChannel: {fileID: 11400000, guid: 16909ad7a27277a4eb7aec77800838b9, type: 2}

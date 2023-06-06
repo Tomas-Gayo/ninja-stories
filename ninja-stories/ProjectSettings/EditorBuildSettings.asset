@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Game/5.Scenes/MainMenu.unity
+    guid: 16f9a7964d6604d47aad6d905eaae835
+  - enabled: 1
+    path: Assets/_Game/5.Scenes/Village.unity
+    guid: a0060af2508175040811174f55686a2a
+  - enabled: 1
+    path: Assets/_Game/5.Scenes/Forest.unity
+    guid: 8b515290498c91b47b7797779b4f95b7
+  - enabled: 1
+    path: Assets/_Game/5.Scenes/Gameplay.unity
+    guid: 08b9d9070fab9114c937c340e3c5d7e9
+  - enabled: 1
+    path: Assets/_Game/5.Scenes/Managers.unity
+    guid: df10da57b67ead44995d56a6a074c889
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 3bc5fb4e990ff6045aa8da9148759b37, type: 2}
+    com.unity.localization.settings: {fileID: 11400000, guid: c002cb29ca6b03c4d8eb52560ee65fee, type: 2}

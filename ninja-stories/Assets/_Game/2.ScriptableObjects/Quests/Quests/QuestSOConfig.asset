@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0ec23823f9548d48b5ec5f85c3fc919, type: 3}
+  m_Name: QuestSOConfig
+  m_EditorClassIdentifier: 
+  pendingStateIcon: {fileID: 21300000, guid: ff19dc13d1e94d14b80704a63cde5ea1, type: 3}
+  activeStateIcon: {fileID: 21300000, guid: 24a12c1172274884fa79827d0a256578, type: 3}
+  completeStateIcon: {fileID: 21300000, guid: 9d9a964a2edeee443bf88f196f6a1405, type: 3}

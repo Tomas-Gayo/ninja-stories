@@ -1,0 +1,160 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UI Text Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UI Text
+  m_TableCollectionNameGuidString: 64cb70c15b67476428180196872a3ba7
+  m_Entries:
+  - m_Id: 39032348672
+    m_Key: Game Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2074326753280
+    m_Key: Continue Button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2263720550400
+    m_Key: New Game Button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3062890651648
+    m_Key: Options Button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3574629294080
+    m_Key: Exit Game Button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15668254597079040
+    m_Key: Interact Label
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17738564167163904
+    m_Key: Accept Quest Button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17738717510918144
+    m_Key: Complete Quest Button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17895132879806464
+    m_Key: Setting Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20295084050374656
+    m_Key: Video Button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20295413953355776
+    m_Key: Sound Button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20295577866756096
+    m_Key: Controls Button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20296311802847232
+    m_Key: Back Btn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20299328820240384
+    m_Key: Video Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20299429110243328
+    m_Key: Sound Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20299490682626048
+    m_Key: Controls Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20305143572619264
+    m_Key: Resolution Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21418344557207552
+    m_Key: End Game Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21421483469463552
+    m_Key: Retry Button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21421607553753088
+    m_Key: Exit to Menu Button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28994834182332416
+    m_Key: Master Volume Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28995004554960896
+    m_Key: Music Volume Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28995042840567808
+    m_Key: SFX Volume Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29021993223479296
+    m_Key: Save Btn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29338302154956800
+    m_Key: Language Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29408485863219200
+    m_Key: Control Movement Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29409084474286080
+    m_Key: Control Attack Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29409808243384320
+    m_Key: Control Special Attack Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29409875352248320
+    m_Key: Control Open Inventory Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29410124871393280
+    m_Key: Control Interaction Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29412446599012352
+    m_Key: Controls Sheathe_Unsheathe Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29705810242330624
+    m_Key: Back Menu Button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30083012565819392
+    m_Key: Control Run Text
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 6122463517092085784
+  references:
+    version: 2
+    RefIds:
+    - rid: 6122463517092085784
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1678090411250

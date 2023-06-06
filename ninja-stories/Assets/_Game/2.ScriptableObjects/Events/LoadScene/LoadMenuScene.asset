@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67880dc9166a6644499058a95be98e5f, type: 3}
+  m_Name: LoadMenuScene
+  m_EditorClassIdentifier: 
+  _debugValue:
+    scene: {fileID: 11400000, guid: 436b849c819886b468ce7cbb7cd744bf, type: 2}
+    hasLoadingScreen: 0

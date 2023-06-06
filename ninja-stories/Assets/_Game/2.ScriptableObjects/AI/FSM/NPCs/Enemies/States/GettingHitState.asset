@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2499e0f9b2e72a141bc964f9f7eac37f, type: 3}
+  m_Name: GettingHitState
+  m_EditorClassIdentifier: 
+  Action:
+  - {fileID: 11400000, guid: 8893528566d2447409f92716f1171ff6, type: 2}
+  - {fileID: 11400000, guid: 7692dc291376b9743a53f837678a0d46, type: 2}
+  Transition:
+  - {fileID: 11400000, guid: aad59fd8c78f4b948b059e88b673f283, type: 2}
+  - {fileID: 11400000, guid: 7f289425e9f97ed4ca824645640ee439, type: 2}

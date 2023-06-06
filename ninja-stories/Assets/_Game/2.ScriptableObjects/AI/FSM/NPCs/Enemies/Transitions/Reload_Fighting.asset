@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bef16f9d7cdc7c34f9d41d8b91ba7f6d, type: 3}
+  m_Name: Reload_Fighting
+  m_EditorClassIdentifier: 
+  toState: {fileID: 11400000, guid: 5d95cd09025fd3440bc666589b5af0bb, type: 2}
+  conditions:
+  - decision: {fileID: 11400000, guid: 1faada074e512bb4abe45dd20ec2ce47, type: 2}
+    result: 0
