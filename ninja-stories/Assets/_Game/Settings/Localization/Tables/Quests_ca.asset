@@ -23,10 +23,9 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 196938544865280
-    m_Localized: Cat Lorem Ipsum is simply dummy text of the printing and typesetting
-      industry. Lorem Ipsum has been the industry's standard dummy text ever since
-      the 1500s, when an unknown printer took a galley of type and scrambled it to
-      make a type specimen book. It has survived not only five centuries
+    m_Localized: "Al llogaret se'ns esgoten els subministraments i les comandes no
+      ens arriben perqu\xE8 el sender est\xE0 ocupat per la facci\xF3 de Kaido. Si
+      alg\xFA pogu\xE9s aconseguir els recursos seria molt ben recompensat."
     m_Metadata:
       m_Items: []
   - m_Id: 203139169017856
@@ -34,14 +33,17 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 8227212339863552
-    m_Localized: Cat Lorem Ipsum is simply dummy text of the printing and typesetting
-      industry. Lorem Ipsum has been the industry's standard dummy text ever since
-      the 1500s, when an unknown printer took a galley of type and scrambled it to
-      make a type specimen book. It has survived not only five centuries
+    m_Localized: "La facci\xF3 de Kaido ha enva\xEFt el sender del nord i destrueixen
+      tot el que queda al seu pas. Tothom que vulgui lluitar obtindr\xE0 una recompensa
+      molt substanciosa."
     m_Metadata:
       m_Items: []
   - m_Id: 8227165908918272
-    m_Localized: Recolecta minerals
+    m_Localized: "Derrota la facci\xF3 de Kaido"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15893631567290368
+    m_Localized: 'Enemics: {currentAmount} / {amountToCollect}'
     m_Metadata:
       m_Items: []
   references:

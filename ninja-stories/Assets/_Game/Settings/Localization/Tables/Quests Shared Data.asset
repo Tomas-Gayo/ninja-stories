@@ -35,6 +35,10 @@ MonoBehaviour:
     m_Key: Q2 Description
     m_Metadata:
       m_Items: []
+  - m_Id: 15893631567290368
+    m_Key: Enemy To Kill
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

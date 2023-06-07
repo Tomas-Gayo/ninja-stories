@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d1d74db2101f5b44496e5d950d3ba9f1, type: 3}
   m_Name: EnemyQuest
   m_EditorClassIdentifier: 
-  title: Kill 5 Samurais
-  description: 
+  title: Q2 Title
+  description: Q2 Desciption
   id: 3
-  state: 1
+  state: 0
   questConfig: {fileID: 11400000, guid: 854032b5113443942852c8595c81e90a, type: 2}
   enemyToKill: {fileID: 11400000, guid: d356210b9fd39884481a2e481a5827bf, type: 2}
   amountToCollect: 2

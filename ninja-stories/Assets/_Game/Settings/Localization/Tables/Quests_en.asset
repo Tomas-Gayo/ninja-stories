@@ -23,10 +23,9 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 196938544865280
-    m_Localized: En Lorem Ipsum is simply dummy text of the printing and typesetting
-      industry. Lorem Ipsum has been the industry's standard dummy text ever since
-      the 1500s, when an unknown printer took a galley of type and scrambled it to
-      make a type specimen book. It has survived not only five centuries
+    m_Localized: In the village we are running out of supplies and orders are not
+      arriving because the path is occupied by the Kaido faction. If anyone could
+      get the resources it would be very well rewarded.
     m_Metadata:
       m_Items: []
   - m_Id: 203139169017856
@@ -34,14 +33,16 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 8227212339863552
-    m_Localized: Cat Lorem Ipsum is simply dummy text of the printing and typesetting
-      industry. Lorem Ipsum has been the industry's standard dummy text ever since
-      the 1500s, when an unknown printer took a galley of type and scrambled it to
-      make a type specimen book. It has survived not only five centuries
+    m_Localized: Kaido's faction has invaded the northern path, destroying everything
+      in their path. Anyone who wants to fight will get a very substantial reward.
     m_Metadata:
       m_Items: []
   - m_Id: 8227165908918272
-    m_Localized: Collect minerals
+    m_Localized: Defeat Kaido's faction
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15893631567290368
+    m_Localized: 'Enemies: {currentAmount} / {amountToCollect}'
     m_Metadata:
       m_Items: []
   references:
