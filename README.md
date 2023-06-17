@@ -3,9 +3,8 @@
  
 ## Index
 
-- [Cómo jugar](https://github.com/Tomas-Gayo/zombies-arcade/blob/main/README.md#c%C3%B3mo-jugar)
-- [Demo](https://github.com/Tomas-Gayo/zombies-arcade/blob/main/README.md#demo)
-- [Librerías](https://github.com/Tomas-Gayo/zombies-arcade/blob/main/README.md#librer%C3%ADas)
+- [Cómo jugar]()
+- [Demo](https://github.com/Tomas-Gayo/ninja-stories#demo)
 - [Atribuciones](https://github.com/Tomas-Gayo/ninja-stories#atribuciones)
 
 ## Cómo jugar
