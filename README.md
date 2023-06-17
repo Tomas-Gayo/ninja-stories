@@ -1,6 +1,5 @@
 # Ninja Stories
 
-ARPG de temática japonesa que cuenta la historia de una pequeña aldea. 
  
 ## Index
 
@@ -11,7 +10,16 @@ ARPG de temática japonesa que cuenta la historia de una pequeña aldea.
 
 ## Cómo jugar
 
-Para el movimiento del personaje podemos utilizar las teclas de dirección **WASD**, también,
+|   | **Teclado**  | 
+| ------ | ------ | 
+| **Movimiento** | WASD | 
+| **Camara** | Ratón | 
+| **Correr** | Shift Izq. | 
+| **Ataque** | Click izq.  | 
+| **Ataque especial** | Click der. | 
+| **Inventario** | Q | 
+| **Interacción** | E | 
+| **Pausa** | Esc |  
 
 ## Demo
 
